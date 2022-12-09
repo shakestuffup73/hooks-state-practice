@@ -1,0 +1,14 @@
+.app-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  margin: 50px;
+}
+
